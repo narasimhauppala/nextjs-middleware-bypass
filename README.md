@@ -100,10 +100,6 @@ Screenshots are saved in the `screenshots` directory with the following naming f
 
 This tool is for educational and security testing purposes only. Always obtain proper authorization before testing any websites or applications.
 
-## Author
-
-Your Name (@narasimhauppala)
-
 ## Acknowledgments
 
 - Next.js Security Documentation
